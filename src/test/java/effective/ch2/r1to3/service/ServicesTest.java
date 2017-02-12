@@ -1,7 +1,11 @@
-package micky.service;
+package effective.ch2.r1to3.service;
 
 import org.junit.BeforeClass;
 import org.junit.Test;
+
+import effective.ch2.r1to3.service.BServiceProvider;
+import effective.ch2.r1to3.service.DefaultServiceProvider;
+import effective.ch2.r1to3.service.Services;
 
 public class ServicesTest {
 

@@ -1,13 +1,13 @@
-package micky;
+package effective.ch2.r1to3;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 import java.util.Collections;
 import java.util.List;
-import java.util.Set;
 
-import org.apache.commons.collections4.CollectionUtils;
 import org.junit.Test;
+
+import effective.ch2.r1to3.MyClass;
 
 public class CollectionsTest {
 

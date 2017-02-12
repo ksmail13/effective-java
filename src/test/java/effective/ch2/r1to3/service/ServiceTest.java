@@ -1,8 +1,8 @@
-package micky.service;
-
-import static org.junit.Assert.*;
+package effective.ch2.r1to3.service;
 
 import org.junit.Test;
+
+import effective.ch2.r1to3.service.Service;
 
 public class ServiceTest {
 	

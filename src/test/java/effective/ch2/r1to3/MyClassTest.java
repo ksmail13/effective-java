@@ -1,4 +1,4 @@
-package micky;
+package effective.ch2.r1to3;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
@@ -6,9 +6,9 @@ import static org.junit.Assert.assertThat;
 import java.math.BigInteger;
 import java.util.Random;
 
-import javax.swing.plaf.synth.SynthSeparatorUI;
-
 import org.junit.Test;
+
+import effective.ch2.r1to3.MyClass;
 
 public class MyClassTest {
 

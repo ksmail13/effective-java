@@ -1,4 +1,4 @@
-package micky;
+package effective.ch2.r1to3;
 
 import java.util.Arrays;
 import java.util.Collections;
